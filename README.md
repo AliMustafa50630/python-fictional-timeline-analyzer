@@ -138,8 +138,8 @@ CONSISTENCY SCORE
 Requires Python 3.8 or later. No external packages are needed.
 
 ```bash
-git clone <your-repo-url>
-cd alibi-engine
+git clone https://github.com/AliMustafa50630/python-fictional-timeline-analyzer.git
+cd python-fictional-timeline-analyzer
 ```
 
 ## How to Run
