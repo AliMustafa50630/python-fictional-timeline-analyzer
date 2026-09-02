@@ -1,0 +1,97 @@
+{
+    "case_name": "Lahore Timeline Case",
+    "generated_on": "2026-08-20 07:00",
+    "characters": ["Ali Khan", "Ayesha Malik", "Hira Qureshi"],
+    "locations": [
+        "Gulberg Cafe",
+        "Quaid-e-Azam Library",
+        "Packages Mall",
+        "Liberty Market",
+        "Model Town Park",
+        "Johar Town",
+        "Lahore Railway Station",
+        "Fortress Square"
+    ],
+    "events": [
+        {
+            "event_id": 1,
+            "character": "Ali Khan",
+            "location": "Johar Town",
+            "activity": "Spending time at home",
+            "start_time": "2026-08-20 07:00",
+            "end_time": "2026-08-20 08:00"
+        },
+        {
+            "event_id": 2,
+            "character": "Ali Khan",
+            "location": "Gulberg Cafe",
+            "activity": "Meeting a friend",
+            "start_time": "2026-08-20 08:15",
+            "end_time": "2026-08-20 09:15"
+        },
+        {
+            "event_id": 3,
+            "character": "Ali Khan",
+            "location": "Model Town Park",
+            "activity": "Taking a walk",
+            "start_time": "2026-08-20 09:45",
+            "end_time": "2026-08-20 10:30"
+        },
+        {
+            "event_id": 4,
+            "character": "Ali Khan",
+            "location": "Lahore Railway Station",
+            "activity": "Waiting for a train",
+            "start_time": "2026-08-20 10:50",
+            "end_time": "2026-08-20 11:20"
+        },
+        {
+            "event_id": 5,
+            "character": "Ayesha Malik",
+            "location": "Quaid-e-Azam Library",
+            "activity": "Studying at the library",
+            "start_time": "2026-08-20 08:00",
+            "end_time": "2026-08-20 09:00"
+        },
+        {
+            "event_id": 6,
+            "character": "Ayesha Malik",
+            "location": "Gulberg Cafe",
+            "activity": "Meeting a friend",
+            "start_time": "2026-08-20 08:30",
+            "end_time": "2026-08-20 09:30"
+        },
+        {
+            "event_id": 7,
+            "character": "Ayesha Malik",
+            "location": "Packages Mall",
+            "activity": "Watching a movie",
+            "start_time": "2026-08-20 10:00",
+            "end_time": "2026-08-20 12:00"
+        },
+        {
+            "event_id": 8,
+            "character": "Hira Qureshi",
+            "location": "Liberty Market",
+            "activity": "Shopping",
+            "start_time": "2026-08-20 09:00",
+            "end_time": "2026-08-20 10:30"
+        },
+        {
+            "event_id": 9,
+            "character": "Hira Qureshi",
+            "location": "Fortress Square",
+            "activity": "Having dinner",
+            "start_time": "2026-08-20 10:32",
+            "end_time": "2026-08-20 11:30"
+        },
+        {
+            "event_id": 10,
+            "character": "Hira Qureshi",
+            "location": "Model Town Park",
+            "activity": "Taking a walk",
+            "start_time": "2026-08-20 11:35",
+            "end_time": "2026-08-20 12:15"
+        }
+    ]
+}

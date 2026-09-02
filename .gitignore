@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Generated / runtime output (sample_case.json is kept, these are not)
+data/generated_case.json
+data/last_report.txt
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
