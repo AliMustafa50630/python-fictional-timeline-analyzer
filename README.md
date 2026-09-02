@@ -1,10 +1,7 @@
-# Alibi Engine — A Timeline Consistency Simulator
+# Fictional Timeline Analyzer
+A Python command-line project that analyzes fictional event timelines, detects scheduling and travel conflicts, and generates a simple consistency report.
 
-A command-line Python project that generates and analyzes **fictional** event
-timelines for **fictional** characters, then checks whether each character's
-story is logically consistent.
-
-> ⚠️ **This is a fictional simulation project built for practicing Python.**
+>  **This is a fictional simulation project built for practicing Python.**
 > All characters, locations, and events are synthetic. This project is not
 > intended for, and must not be used for, real-world deception or creating
 > real alibis. It exists purely to demonstrate core Python programming
